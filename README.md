@@ -1,4 +1,4 @@
-# Aine-MD
+# Oscar-Md
 
 <img src="https://telegra.ph/file/54fed7c252a0504f582cc.jpg" width="200" height="200"/>
 </p>
@@ -7,7 +7,7 @@
 This script is free, if caught sold, this script will be deleted immediately.
 Don't forget to follow my github
 
-Script ini gratis,Note DILARANG MENJUAL BELIKAN SCRIRT
+Script ini gratis,📮 NOTE DILARANG MENJUAL BELIKAN SCRIRT
 Jangan lupa untuk mengikuti github ku
 * My WhatsApp [`Click Here`](https://wa.me/6285850539404?text=Assalamualaikum)
 * My Youtube [`Click Here`](https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ)
