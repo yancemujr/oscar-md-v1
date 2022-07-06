@@ -1,8 +1,9 @@
 # Aine-MD
-
+<p align="center">
+<img src="https://telegra.ph/file/2c855db3259a64a987756.jpg"
 This script is free, if caught sold, this script will be deleted immediately.
 Don't forget to follow my github
-https://telegra.ph/file/2c855db3259a64a987756.jpg
+
 Script ini gratis, Jika ketahuan di jual, Script ini akan langsung di hapus.
 Jangan lupa untuk mengikuti github ku
 * My WhatsApp [`Click Here`](https://wa.me/62895330379186?text=Assalamualaikum)
