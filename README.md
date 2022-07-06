@@ -39,8 +39,8 @@ apt install git -y
 apt install nodejs -y
 apt install ffmpeg -y
 apt install imagemagick -y
-git clone https://github.com/Aiinne/Aine-MD
-cd Aine-MD
+git clone https://github.com/Alpiii22/oscar-md-v1
+cd oscar-md-v1
 pkg install yarn
 yarn
 
@@ -223,7 +223,7 @@ Semua yang selalu mendukung
 [![amiruldev20](https://github.com/amiruldev20.png?size=100)](https://github.com/amiruldev20)
 [![Chacax](https://github.com/Chacax.png?size=100)](https://github.com/Chacax)
 [![rahmad13](https://github.com/rahmad13.png?size=100)](https://github.com/rahmad13)
-
+[![Jarot](https://github.com/Alpiii22/oscar-md-v1.png?size=100](https://github.com/Alpiii22)
 
 Best Regards. Aine-MD
 
