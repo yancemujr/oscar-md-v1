@@ -58,7 +58,7 @@ const defaultMenu = {
   body: ' • %cmd %islimit %isPremium',
   footer: '\n',
   after: `*Made by ♡*
-*%𝐉𝐚𝐫𝐨𝐭 𝐨𝐟𝐟𝐜* | %version
+*%𝐑𝐢𝐬𝐦𝐚 𝐨𝐟𝐟𝐜* | %version
 ${'```%npmdesc```'}
 `,
 }
