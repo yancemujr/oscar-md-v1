@@ -40,8 +40,8 @@ process.env['NODE_TLS_REJECT_UNAUTHORIZED'] = 0
 const spack = fs.readFileSync("lib/exif.json")
 const stickerpack = JSON.parse(spack)
 if (stickerpack.spackname == '') {
-  var sticker_name = '𝐑𝐢𝐬𝐦𝐚_𝐨𝐟𝐟𝐜'
-  var sticker_author = '𝐑𝐢𝐬𝐦𝐚'
+  var sticker_name = '𝐂𝐞𝐥𝐢𝐧𝐞_𝐨𝐟𝐟𝐜'
+  var sticker_author = '𝐂𝐞𝐥𝐢𝐧𝐞'
 } else {
   var sticker_name = stickerpack.spackname
   var sticker_author = stickerpack.sauthor
@@ -58,7 +58,7 @@ fs.watchFile(file_exif, () => {
 // Sticker WM
 global.packname = sticker_name
 global.author = sticker_author
-global.wm = '© 𝐑𝐢𝐬𝐦𝐚'
+global.wm = '© 𝐂𝐞𝐥𝐢𝐧𝐞'
 
 global.multiplier = 1000 // The higher, The harder levelup
 
