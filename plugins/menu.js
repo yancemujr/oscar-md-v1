@@ -63,7 +63,7 @@ const defaultMenu = {
   body: '❀ %cmd %islimit %isPremium',
   footer: '┗━───────⬣\n',
   after: `*Made by ♡*
-*%𝗝𝗮𝗿𝗼𝘁 𝗼𝗳𝗳𝗰* | %version
+*𝐂𝐞𝐥𝐢𝐧𝐞* | %version
 ${'```%npmdesc```'}
 `,
 }
