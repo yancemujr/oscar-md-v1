@@ -7,7 +7,7 @@
 This script is free, if caught sold, this script will be deleted immediately.
 Don't forget to follow my github
 
-Script ini gratis,📮 NOTE DILARANG MENJUAL BELIKAN SCRIRT
+Script ini gratis,📮 NOTE DILARANG MENJUAL BELIKAN SCRIRT, SCRIPT INI TIDAK DI LANJUTKAN LAGI SILAHKAN KALO MAU DO RECODE KEMBALI
 Jangan lupa untuk mengikuti github ku
 * My WhatsApp [`Click Here`](https://wa.me/6285850539404?text=Assalamualaikum)
 * My Youtube [`Click Here`](https://youtube.com/channel/UCW7iXlE7TgvJMIXQck4NYBQ)
